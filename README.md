@@ -37,7 +37,7 @@ LimitMark explores a defense-plane architecture in which *every layer assumes th
 - **Reference use:** Source- and line-cited exploration of Cloudflare Workers, Durable Objects, Next.js, and security-oriented TypeScript patterns.
 - **Attribution:** Listed by XERJ with author permission and the repository's MIT license.
 
-[View contributor profile](https://hub.xerj.org/contributors/emircanunlutas) · [Browse LimitMark corpus](https://hub.xerj.org/corpus/emircanunlutas--limitmark) · [Recognition record](https://github.com/emircanunlutas/limitmark/blob/docs/external-recognition-xerj/docs/recognition/001-xerj-corpus-hub.md)
+[View contributor profile](https://hub.xerj.org/contributors/emircanunlutas) · [Browse LimitMark corpus](https://hub.xerj.org/corpus/emircanunlutas--limitmark) · [Recognition record](https://github.com/emircanunlutas/limitmark/blob/ba0-n2-progression/docs/recognition/001-xerj-corpus-hub.md)
 
 *This is an external research-corpus selection, not a certification or validation of every security claim.*
 
